@@ -22,7 +22,7 @@ function App() {
         pnrNumber: n
       },
       headers: {
-        'X-RapidAPI-Key': '5226518e4bmshf3cfd6789db8690p1ffbf0jsnd745014e2064',
+        'X-RapidAPI-Key': '5226518e4bmshf3cfd6789db8690p1ffbf0jsnd745014e',
         'X-RapidAPI-Host': 'irctc1.p.rapidapi.com'
       }
     };
